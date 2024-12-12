@@ -7,7 +7,7 @@ function Article() {
         <h4>11/12/20</h4>
         <h2>On the Stree in Brooklyn</h2>
         <img
-          src="../../public/images/blog-image-1.jpg"
+          src="/images/blog-image-1.jpg"
           alt="woman on the street in
         Brooklyn"
         />
@@ -26,7 +26,7 @@ function Article() {
         <h4>11/11/20</h4>
         <h2>Vintage in Vogue</h2>
         <img
-          src="../../public/images/blog-image-2.jpg"
+          src="/images/blog-image-2.jpg"
           alt="Three people in the picture two
         looking at the camera one facing left"
         />
